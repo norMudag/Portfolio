@@ -5,8 +5,8 @@ import React from 'react'
 import { Facebook,Github,Linkedin } from 'lucide-react'
 
  const Links = [
-    {href:"https://github.com/norMudag", Icon: <Github/>},
     {href:"https://www.facebook.com/mDagz0/", Icon: <Facebook/>},
+    {href:"https://github.com/norMudag", Icon: <Github/>},
     {href:"https://www.linkedin.com/in/mohammad-nor-mudag-89520b371/", Icon: <Linkedin/>}
 ]
 interface LinkProps {
