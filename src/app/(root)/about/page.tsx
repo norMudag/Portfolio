@@ -54,7 +54,8 @@ const About = () => {
             </h1>
 
             <p className="text-base sm:text-lg text-muted-foreground mt-6 max-w-[550px] leading-relaxed">
-              I'm a passionate developer and designer with
+              I'm a passionate developer and designer with a love for creating exceptional digital experiences. 
+              I specialize in bringing ideas to life through clean code, modern design, and intuitive user interfaces.
             </p>
 
             <p className="text-base sm:text-lg text-muted-foreground mt-4 max-w-[550px] leading-relaxed">
