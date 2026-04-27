@@ -46,7 +46,7 @@ const About = () => {
 
             <div className="flex items-center justify-center lg:justify-start gap-2 mt-2 text-muted-foreground text-sm sm:text-base">
               <MapPin className="h-4 w-4 text-primary" />
-              <span>Marawi City, Philippines</span>
+              <span>Iligan City, Philippines</span>
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mt-4 leading-tight">
