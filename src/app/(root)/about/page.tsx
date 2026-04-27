@@ -54,7 +54,7 @@ const About = () => {
             </h1>
 
             <p className="text-base sm:text-lg text-muted-foreground mt-6 max-w-[550px] leading-relaxed">
-              I'm
+              I'm a
             </p>
 
             <p className="text-base sm:text-lg text-muted-foreground mt-4 max-w-[550px] leading-relaxed">
