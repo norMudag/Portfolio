@@ -50,7 +50,7 @@ const About = () => {
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mt-4 leading-tight">
-              Mohammad Nor<span className="text-primary">Mudag</span>
+              Mohammad Nor <span className="text-primary">Mudag</span>
             </h1>
 
             <p className="text-base sm:text-lg text-muted-foreground mt-6 max-w-[550px] leading-relaxed">
